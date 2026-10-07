@@ -1,4 +1,4 @@
-# Weather API Backend
+# Solar Farm API backend
 
 This backend is a lightweight, Redis-backed weather API that combines **caching, LRU eviction, and rate limiting** to provide a fast and controlled data access layer.
 
